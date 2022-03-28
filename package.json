@@ -61,7 +61,7 @@
     "jest-mock-warn": "^1.1.0",
     "lint-staged": "^12.3.7",
     "mande": "^1.0.1",
-    "pascalcase": "^1.0.0",
+    "pascalcase": "^2.0.0",
     "prettier": "^2.6.1",
     "prismjs": "^1.27.0",
     "rollup": "^2.70.1",
