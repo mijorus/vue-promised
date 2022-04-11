@@ -1,4 +1,3 @@
-/// <reference types="jest" />
 
 import { AllowedComponentProps } from 'vue-demi';
 import { ComponentCustomProps } from 'vue-demi';
